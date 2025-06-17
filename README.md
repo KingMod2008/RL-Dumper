@@ -1,16 +1,16 @@
 # 🚀 KingMod's Rocket League Dumper
 
-KingMod's Rocket League Dumper is a powerful and efficient tool designed to extract and dump memory data from the Rocket League game. This tool allows developers, modders, and researchers to explore Rocket League's internal memory structures by providing comprehensive memory addresses and object information, helping with modding, debugging, and analysis.
+A powerful tool for dumping Rocket League memory data, developed by KingMod. This tool provides detailed memory addresses and object information for Rocket League.
 
 ---
 
 ## 🌟 Features
 
-- **Advanced Memory Dumping:** Extract detailed object and name information from Rocket League's memory in real-time.  
-- **Organized Output:** Memory data is saved in clean, easy-to-read text files (`GObjects.txt` and `GNames.txt`), facilitating quick analysis.  
-- **Hex & Decimal Address Display:** View memory addresses in both hexadecimal and decimal formats for convenience and compatibility with various tools.  
-- **Real-Time Progress Tracking:** Get live feedback on the dumping process so you know exactly when it completes.  
-- **Automatic Discord Integration:** Access the community instantly via a convenient Discord invite link included in the tool's output and documentation.  
+- Advanced memory dumping capabilities  
+- Clean and organized output  
+- Automatic Discord community link  
+- Hex and decimal address display  
+- Real-time progress tracking  
 
 ---
 
@@ -18,13 +18,9 @@ KingMod's Rocket League Dumper is a powerful and efficient tool designed to extr
 
 ![Preview](https://cdn.discordapp.com/attachments/1104154655518376021/1138192227307368608/image.png)
 
-*Screenshot showcasing the output format and live progress of the dumper.*
-
 ---
 
-## 📋 Output Format Explanation
-
-The tool generates two primary output files that represent Rocket League's internal memory structures:
+## 📋 Output Format
 
 ### `GObjects.txt`
 
